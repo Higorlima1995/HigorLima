@@ -1,6 +1,6 @@
 return {
     {
-        Label = 'Bolsa de Aeroporto',
+        Label = 'Airport Bag',
         Command = 'airportbag',
         Animation = 'idle',
         Dictionary = 'anim@heists@narcotics@trash',
@@ -22,7 +22,7 @@ return {
         },
     },
     {
-        Label = 'Machado',
+        Label = 'Axe',
         Command = 'axe',
         Animation = 'base_club_shoulder',
         Dictionary = 'rcmnigel1d',
@@ -44,7 +44,7 @@ return {
         },
     },
     {
-        Label = 'Machado - Impacto no Chão',
+        Label = 'Axe - Ground Impact',
         Command = 'axe2',
         Animation = 'ground_attack_on_spot',
         Dictionary = 'melee@large_wpn@streamed_core',
@@ -65,7 +65,7 @@ return {
         },
     },
     {
-        Label = 'Machado - Picareta',
+        Label = 'Axe - Pickaxe',
         Command = 'axe3',
         Animation = 'base_club_shoulder',
         Dictionary = 'rcmnigel1d',
@@ -87,7 +87,7 @@ return {
         },
     },
     {
-        Label = 'Machado - Impacto de Picareta no Chão',
+        Label = 'Axe - Pickaxe Ground Impact',
         Command = 'axe4',
         Animation = 'ground_attack_on_spot',
         Dictionary = 'melee@large_wpn@streamed_core',
@@ -108,7 +108,7 @@ return {
         },
     },
     {
-        Label = 'Mochila',
+        Label = 'Backpack',
         Command = 'backpack',
         Animation = 'nill',
         Dictionary = 'move_p_m_zero_rucksack',
@@ -130,7 +130,7 @@ return {
         },
     },
     {
-        Label = 'Basquete',
+        Label = 'Basketball',
         Command = 'bball',
         Animation = 'bskball_hold_clip',
         Dictionary = 'anim@male_bskball_hold',
@@ -152,7 +152,7 @@ return {
         },
     },
     {
-        Label = 'Basquete 2',
+        Label = 'Basketball 2',
         Command = 'bball2',
         Animation = 'photo_pose_clip',
         Dictionary = 'anim@male_bskball_photo_pose',
@@ -174,7 +174,7 @@ return {
         },
     },
     {
-        Label = 'Basquete 3',
+        Label = 'Basketball 3',
         Command = 'bball3',
         Animation = 'mx_clippose2',
         Dictionary = 'mx@pose2',
@@ -195,7 +195,7 @@ return {
         },
     },
     {
-        Label = 'Basquete 4',
+        Label = 'Basketball 4',
         Command = 'bball4',
         Animation = 'm_basketball_03_clip',
         Dictionary = 'anim@male_basketball_03',
@@ -217,7 +217,7 @@ return {
         },
     },
     {
-        Label = 'Churrasco (Feminino)',
+        Label = 'BBQ (Female)',
         Command = 'bbqf',
         Animation = 'idle_b',
         Dictionary = 'amb@prop_human_bbq@male@idle_a',
@@ -239,7 +239,7 @@ return {
         },
     },
     {
-        Label = 'Boia de Praia',
+        Label = 'Beach Floatie',
         Command = 'beachring',
         Animation = 'beachanim_clip',
         Dictionary = 'beachanims@free',
@@ -261,7 +261,7 @@ return {
         },
     },
     {
-        Label = 'Caixa de Cerveja 1',
+        Label = 'Beer Box 1',
         Command = 'beerbox',
         Animation = 'idle',
         Dictionary = 'move_weapon@jerrycan@generic',
@@ -283,7 +283,7 @@ return {
         },
     },
     {
-        Label = 'Caixa de Cerveja 2',
+        Label = 'Beer Box 2',
         Command = 'beerbox2',
         Animation = 'idle',
         Dictionary = 'move_weapon@jerrycan@generic',
@@ -305,7 +305,7 @@ return {
         },
     },
     {
-        Label = 'Caixa de Cerveja 3',
+        Label = 'Beer Box 3',
         Command = 'beerbox3',
         Animation = 'idle',
         Dictionary = 'move_weapon@jerrycan@generic',
@@ -327,7 +327,7 @@ return {
         },
     },
     {
-        Label = 'Caixa de Cerveja 4',
+        Label = 'Beer Box 4',
         Command = 'beerbox4',
         Animation = 'idle',
         Dictionary = 'move_weapon@jerrycan@generic',
@@ -349,7 +349,7 @@ return {
         },
     },
     {
-        Label = 'Cerveja Feminina',
+        Label = 'Beer Female',
         Command = 'beerf',
         Animation = 'idle_a',
         Dictionary = 'amb@world_human_drinking@beer@female@idle_a',
@@ -371,7 +371,7 @@ return {
         },
     },
     {
-        Label = 'Cerveja Feminina 3',
+        Label = 'Beer Female 3',
         Command = 'beerf3',
         Animation = 'idle_a',
         Dictionary = 'amb@world_human_drinking@beer@female@idle_a',
@@ -392,7 +392,7 @@ return {
         },
     },
     {
-        Label = 'Pedir',
+        Label = 'Beg',
         Command = 'beg',
         Animation = 'base',
         Dictionary = 'amb@world_human_bum_freeway@male@base',
@@ -414,7 +414,7 @@ return {
         },
     },
     {
-        Label = 'Pedir 2',
+        Label = 'Beg 2',
         Command = 'beg2',
         Animation = 'base',
         Dictionary = 'amb@world_human_bum_freeway@male@base',
@@ -436,7 +436,7 @@ return {
         },
     },
     {
-        Label = 'Pedir 3',
+        Label = 'Beg 3',
         Command = 'beg3',
         Animation = 'base',
         Dictionary = 'amb@world_human_bum_freeway@male@base',
@@ -450,7 +450,7 @@ return {
                     Bone = 28422,
                     Name = 'prop_beggers_sign_02',
                     Placement = {
-                        vector3(0.000000, 0.000000, 0.000000),
+                        vector3(0.000000, 0.000000, 0.080000),
                         vector3(0.000000, 0.000000, 0.000000),
                     },
                 },
@@ -458,7 +458,7 @@ return {
         },
     },
     {
-        Label = 'Pedir 4',
+        Label = 'Beg 4',
         Command = 'beg4',
         Animation = 'base',
         Dictionary = 'amb@world_human_bum_freeway@male@base',
@@ -472,7 +472,7 @@ return {
                     Bone = 28422,
                     Name = 'prop_beggers_sign_04',
                     Placement = {
-                        vector3(0.000000, 0.000000, 0.000000),
+                        vector3(0.000000, 0.000000, 0.080000),
                         vector3(0.000000, 0.000000, 0.000000),
                     },
                 },
@@ -480,10 +480,10 @@ return {
         },
     },
     {
-        Label = 'Binóculos',
+        Label = 'Binoculars',
         Command = 'binoculars',
-        Animation = 'idle',
-        Dictionary = 'amb@world_human_binoculars@male@idle_a',
+        Animation = 'idle_f',
+        Dictionary = 'amb@world_human_binoculars@male@idle_b',
         Options = {
             Flags = {
                 Loop = true,
@@ -492,9 +492,9 @@ return {
             Props = {
                 {
                     Bone = 28422,
-                    Name = 'prop_binoculars_01',
+                    Name = 'prop_binoc_01',
                     Placement = {
-                        vector3(0.050000, -0.020000, 0.000000),
+                        vector3(0.000000, 0.000000, 0.000000),
                         vector3(0.000000, 0.000000, 0.000000),
                     },
                 },
@@ -502,9 +502,9 @@ return {
         },
     },
     {
-        Label = 'Binóculos 2',
+        Label = 'Binoculars 2',
         Command = 'binoculars2',
-        Animation = 'idle',
+        Animation = 'idle_c',
         Dictionary = 'amb@world_human_binoculars@male@idle_a',
         Options = {
             Flags = {
@@ -514,9 +514,9 @@ return {
             Props = {
                 {
                     Bone = 28422,
-                    Name = 'prop_binoculars_02',
+                    Name = 'prop_binoc_01',
                     Placement = {
-                        vector3(0.050000, -0.020000, 0.000000),
+                        vector3(0.000000, 0.000000, 0.000000),
                         vector3(0.000000, 0.000000, 0.000000),
                     },
                 },
@@ -524,51 +524,43 @@ return {
         },
     },
     {
-        Label = 'Cachimbo',
+        Label = 'Bong',
         Command = 'bong',
-        Animation = 'idle',
-        Dictionary = 'amb@world_human_smoking@male@idle_a',
+        Animation = 'bong_stage3',
+        Dictionary = 'anim@safehouse@bong',
         Options = {
-            Flags = {
-                Loop = true,
-                Move = true,
-            },
             Props = {
                 {
-                    Bone = 57005,
-                    Name = 'prop_bong_01',
+                    Bone = 18905,
+                    Name = 'hei_heist_sh_bong_01',
                     Placement = {
-                        vector3(0.120000, -0.150000, -0.050000),
-                        vector3(0.000000, 0.000000, 0.000000),
+                        vector3(0.100000, -0.250000, 0.000000),
+                        vector3(95.000000, 190.000000, 180.000000),
                     },
                 },
             },
         },
     },
     {
-        Label = 'Cachimbo 2',
+        Label = 'Bong 2',
         Command = 'bong2',
-        Animation = 'idle',
-        Dictionary = 'amb@world_human_smoking@male@idle_b',
+        Animation = 'bong_stage3',
+        Dictionary = 'anim@safehouse@bong',
         Options = {
-            Flags = {
-                Loop = true,
-                Move = true,
-            },
             Props = {
                 {
-                    Bone = 57005,
-                    Name = 'prop_bong_02',
+                    Bone = 18905,
+                    Name = 'xm3_prop_xm3_bong_01a',
                     Placement = {
-                        vector3(0.120000, -0.150000, -0.050000),
-                        vector3(0.000000, 0.000000, 0.000000),
+                        vector3(0.100000, -0.250000, 0.000000),
+                        vector3(95.000000, 190.000000, 180.000000),
                     },
                 },
             },
         },
     },
     {
-        Label = 'Bongôs',
+        Label = 'Bongo Drums',
         Command = 'bongos',
         Animation = 'base',
         Dictionary = 'amb@world_human_musician@bongos@male@base',
@@ -590,7 +582,7 @@ return {
         },
     },
     {
-        Label = 'Livro',
+        Label = 'Book',
         Command = 'book',
         Animation = 'cellphone_text_read_base',
         Dictionary = 'cellphone@',
@@ -612,7 +604,7 @@ return {
         },
     },
     {
-        Label = 'Caixa de Som',
+        Label = 'Boombox',
         Command = 'boombox',
         Animation = 'idle',
         Dictionary = 'move_weapon@jerrycan@generic',
@@ -634,7 +626,7 @@ return {
         },
     },
     {
-        Label = 'Caixa de Som 2',
+        Label = 'Boombox 2',
         Command = 'boombox2',
         Animation = 'boombox1_clip',
         Dictionary = 'molly@boombox1',
@@ -664,7 +656,7 @@ return {
         },
     },
     {
-        Label = 'Buquê',
+        Label = 'Bouquet',
         Command = 'bouquet',
         Animation = 'mp_m_waremech_01_dual-0',
         Dictionary = 'impexp_int-0',
@@ -686,7 +678,7 @@ return {
         },
     },
     {
-        Label = 'Caixa',
+        Label = 'Box',
         Command = 'box',
         Animation = 'idle',
         Dictionary = 'anim@heists@box_carry@',
@@ -708,7 +700,7 @@ return {
         },
     },
     {
-        Label = 'Pasta',
+        Label = 'Briefcase',
         Command = 'brief',
         Animation = 'idle',
         Dictionary = 'move_weapon@jerrycan@generic',
@@ -730,7 +722,7 @@ return {
         },
     },
     {
-        Label = 'Pasta 2',
+        Label = 'Briefcase 2',
         Command = 'brief2',
         Animation = 'static',
         Dictionary = 'missheistdocksprep1hold_cellphone',
@@ -752,7 +744,7 @@ return {
         },
     },
     {
-        Label = 'Vassoura',
+        Label = 'Broom',
         Command = 'broom',
         Animation = 'base',
         Dictionary = 'anim@amb@drug_field_workers@rake@male_a@base',
@@ -773,7 +765,7 @@ return {
         },
     },
     {
-        Label = 'Vassoura 2',
+        Label = 'Broom 2',
         Command = 'broom2',
         Animation = 'idle_b',
         Dictionary = 'anim@amb@drug_field_workers@rake@male_a@idles',
@@ -794,7 +786,7 @@ return {
         },
     },
     {
-        Label = 'Vassoura 3',
+        Label = 'Broom 3',
         Command = 'broom3',
         Animation = 'base',
         Dictionary = 'anim@amb@drug_field_workers@rake@male_b@base',
@@ -815,7 +807,7 @@ return {
         },
     },
     {
-        Label = 'Vassoura 4',
+        Label = 'Broom 4',
         Command = 'broom4',
         Animation = 'idle_d',
         Dictionary = 'anim@amb@drug_field_workers@rake@male_b@idles',
@@ -836,7 +828,7 @@ return {
         },
     },
     {
-        Label = 'Câmera',
+        Label = 'Camera',
         Command = 'camera',
         Animation = 'base',
         Dictionary = 'amb@world_human_paparazzi@male@base',
@@ -869,7 +861,7 @@ return {
         },
     },
     {
-        Label = 'Câmera 2',
+        Label = 'Camera 2',
         Command = 'camera2',
         Animation = 'cellphone_text_read_base_cover_low',
         Dictionary = 'cellphone@female',
@@ -901,7 +893,7 @@ return {
         },
     },
     {
-        Label = 'Câmera 3',
+        Label = 'Camera 3',
         Command = 'camera3',
         Animation = 'cellphone_text_read_base_cover_low',
         Dictionary = 'cellphone@female',
@@ -933,7 +925,7 @@ return {
         },
     },
     {
-        Label = 'Câmera 4 - Câmera de Notícias',
+        Label = 'Camera 4 - Carry News Camera',
         Command = 'camera4',
         Animation = 'idle',
         Dictionary = 'move_weapon@jerrycan@generic',
@@ -954,7 +946,7 @@ return {
         },
     },
     {
-        Label = 'Carregar Bebida',
+        Label = 'Carry Drink',
         Command = 'carrydrink',
         Animation = 'idle_c',
         Dictionary = 'amb@world_human_drinking@coffee@male@idle_a',
@@ -976,7 +968,7 @@ return {
         },
     },
     {
-        Label = 'Carregar Saco de Comida',
+        Label = 'Carry Food Bag',
         Command = 'carryfoodbag',
         Animation = 'idle',
         Dictionary = 'move_weapon@jerrycan@generic',
@@ -998,7 +990,7 @@ return {
         },
     },
     {
-        Label = 'Carregar Saco de Comida 2',
+        Label = 'Carry Food Bag 2',
         Command = 'carryfoodbag2',
         Animation = 'idle',
         Dictionary = 'move_weapon@jerrycan@generic',
@@ -1020,7 +1012,7 @@ return {
         },
     },
     {
-        Label = 'Carregar Sacola de Comida 3',
+        Label = 'Carry Food Bag 3',
         Command = 'carryfoodbag3',
         Animation = 'idle',
         Dictionary = 'move_weapon@jerrycan@generic',
@@ -1042,7 +1034,7 @@ return {
         },
     },
     {
-        Label = 'Carregar Menu',
+        Label = 'Carry Menu',
         Command = 'carrymenu',
         Animation = 'base',
         Dictionary = 'missfam4',
@@ -1064,7 +1056,7 @@ return {
         },
     },
     {
-        Label = 'Carregar Caixa de Pizza',
+        Label = 'Carry Pizza Box',
         Command = 'carrypizza',
         Animation = 'idle',
         Dictionary = 'anim@heists@box_carry@',
@@ -1086,7 +1078,7 @@ return {
         },
     },
     {
-        Label = 'Carregar Caixa de Pizza 2',
+        Label = 'Carry Pizza Box 2',
         Command = 'carrypizza2',
         Animation = 'idle',
         Dictionary = 'anim@heists@box_carry@',
@@ -1108,7 +1100,7 @@ return {
         },
     },
     {
-        Label = 'Pasta de Dinheiro',
+        Label = 'Cash Briefcase',
         Command = 'cashcase',
         Animation = 'idle',
         Dictionary = 'move_weapon@jerrycan@generic',
@@ -1130,7 +1122,7 @@ return {
         },
     },
     {
-        Label = 'Pasta de Dinheiro 2',
+        Label = 'Cash Briefcase 2',
         Command = 'cashcase2',
         Animation = 'idle',
         Dictionary = 'anim@heists@box_carry@',
@@ -1152,7 +1144,7 @@ return {
         },
     },
     {
-        Label = 'Pasta de Dinheiro 3',
+        Label = 'Cash Briefcase 3',
         Command = 'cashcase3',
         Animation = 'idle',
         Dictionary = 'anim@heists@box_carry@',
@@ -1174,7 +1166,7 @@ return {
         },
     },
     {
-        Label = 'Pasta de Dinheiro 4 - Diamantes',
+        Label = 'Cash Briefcase 4 - Diamonds',
         Command = 'cashcase4',
         Animation = 'idle',
         Dictionary = 'anim@heists@box_carry@',
@@ -1196,7 +1188,7 @@ return {
         },
     },
     {
-        Label = 'Carregar Caixa de Cerveja',
+        Label = 'Carry Beer Box',
         Command = 'cbbox',
         Animation = 'idle',
         Dictionary = 'anim@heists@box_carry@',
@@ -1218,7 +1210,7 @@ return {
         },
     },
     {
-        Label = 'Carregar Caixa de Cerveja 2',
+        Label = 'Carry Beer Box 2',
         Command = 'cbbox2',
         Animation = 'idle',
         Dictionary = 'anim@heists@box_carry@',
@@ -1240,7 +1232,7 @@ return {
         },
     },
     {
-        Label = 'Carregar Caixa de Cerveja 3',
+        Label = 'Carry Beer Box 3',
         Command = 'cbbox3',
         Animation = 'idle',
         Dictionary = 'anim@heists@box_carry@',
@@ -1262,7 +1254,7 @@ return {
         },
     },
     {
-        Label = 'Carregar Caixa de Cerveja 4',
+        Label = 'Carry Beer Box 4',
         Command = 'cbbox4',
         Animation = 'idle',
         Dictionary = 'anim@heists@box_carry@',
@@ -1284,7 +1276,7 @@ return {
         },
     },
     {
-        Label = 'Carregar Caixa de Cerveja 5',
+        Label = 'Carry Beer Box 5',
         Command = 'cbbox5',
         Animation = 'idle',
         Dictionary = 'anim@heists@box_carry@',
@@ -1306,7 +1298,7 @@ return {
         },
     },
     {
-        Label = 'Carregar Caixa de Cerveja 6',
+        Label = 'Carry Beer Box 6',
         Command = 'cbbox6',
         Animation = 'idle',
         Dictionary = 'anim@heists@box_carry@',
@@ -1328,7 +1320,7 @@ return {
         },
     },
     {
-        Label = 'Carregar Cones',
+        Label = 'Carry Cones',
         Command = 'carrycones',
         Animation = 'idle',
         Dictionary = 'anim@heists@box_carry@',
@@ -1358,7 +1350,7 @@ return {
         },
     },
     {
-        Label = 'Carregar Cones 2',
+        Label = 'Carry Cones 2',
         Command = 'carrycones2',
         Animation = 'idle',
         Dictionary = 'anim@heists@box_carry@',
@@ -1404,7 +1396,7 @@ return {
         },
     },
     {
-        Label = 'Spray de Champanhe',
+        Label = 'Champagne Spray',
         Command = 'champagnespray',
         Animation = 'idle_a',
         Dictionary = 'anim@mp_player_intupperspray_champagne',
@@ -1437,7 +1429,7 @@ return {
         },
     },
     {
-        Label = 'Garçom de Champanhe',
+        Label = 'Champagne Waiter',
         Command = 'champw',
         Animation = 'idle',
         Dictionary = 'anim@move_f@waitress',
@@ -1467,7 +1459,7 @@ return {
         },
     },
     {
-        Label = 'Cigarro',
+        Label = 'Cig',
         Command = 'cig',
         Animation = 'enter',
         Dictionary = 'amb@world_human_smoking@male@male_a@enter',
@@ -1489,7 +1481,7 @@ return {
         },
     },
     {
-        Label = 'Cigarro (Cigarro Grande)',
+        Label = 'Cigar',
         Command = 'cigar',
         Animation = 'enter',
         Dictionary = 'amb@world_human_smoking@male@male_a@enter',
@@ -1511,7 +1503,7 @@ return {
         },
     },
     {
-        Label = 'Cigarro 2 (Outro)',
+        Label = 'Cigar 2',
         Command = 'cigar2',
         Animation = 'enter',
         Dictionary = 'amb@world_human_smoking@male@male_a@enter',
@@ -1533,7 +1525,7 @@ return {
         },
     },
     {
-        Label = 'Limpar',
+        Label = 'Clean',
         Command = 'clean',
         Animation = 'base',
         Dictionary = 'timetable@floyd@clean_kitchen@base',
@@ -1555,7 +1547,7 @@ return {
         },
     },
     {
-        Label = 'Limpar 2',
+        Label = 'Clean 2',
         Command = 'clean2',
         Animation = 'base',
         Dictionary = 'amb@world_human_maid_clean@',
@@ -1577,7 +1569,7 @@ return {
         },
     },
     {
-        Label = 'Prancheta',
+        Label = 'Clipboard',
         Command = 'clipboard',
         Animation = 'base',
         Dictionary = 'missfam4',
@@ -1599,7 +1591,7 @@ return {
         },
     },
     {
-        Label = 'Cabeça de Cone',
+        Label = 'Cone Head',
         Command = 'conehead',
         Animation = 'fidget_07',
         Dictionary = 'move_m@drunk@verydrunk_idles@',
@@ -1621,7 +1613,7 @@ return {
         },
     },
     {
-        Label = 'Bastão de Polícia',
+        Label = 'Cop Wand',
         Command = 'copwand',
         Animation = 'base',
         Dictionary = 'amb@world_human_car_park_attendant@male@base',
@@ -1643,7 +1635,7 @@ return {
         },
     },
     {
-        Label = 'Sinal de Polícia',
+        Label = 'Cop Beacon',
         Command = 'copbeacon',
         Animation = 'base',
         Dictionary = 'amb@world_human_car_park_attendant@male@base',
@@ -1665,7 +1657,7 @@ return {
         },
     },
     {
-        Label = 'Cabeça de Crack',
+        Label = 'Crack Head',
         Command = 'crackhead',
         Animation = 'base',
         Dictionary = 'special_ped@zombie@base',
@@ -1695,7 +1687,7 @@ return {
         },
     },
     {
-        Label = 'Cavar',
+        Label = 'Dig',
         Command = 'dig',
         Animation = 'a_burial',
         Dictionary = 'random@burial',
@@ -1790,7 +1782,7 @@ return {
         },
     },
     {
-        Label = 'Mala de Viagem',
+        Label = 'Duffel Bag',
         Command = 'dufbag',
         Animation = 'idle',
         Dictionary = 'move_weapon@jerrycan@generic',
@@ -1812,7 +1804,7 @@ return {
         },
     },
     {
-        Label = 'Pesca 1',
+        Label = 'Fishing 1',
         Command = 'fishing1',
         Animation = 'idle_a',
         Dictionary = 'amb@world_human_stand_fishing@idle_a',
@@ -1833,7 +1825,7 @@ return {
         },
     },
     {
-        Label = 'Pesca 2',
+        Label = 'Fishing 2',
         Command = 'fishing2',
         Animation = 'idle_b',
         Dictionary = 'amb@world_human_stand_fishing@idle_a',
@@ -1854,7 +1846,7 @@ return {
         },
     },
     {
-        Label = 'Pesca 3',
+        Label = 'Fishing 3',
         Command = 'fishing3',
         Animation = 'idle_c',
         Dictionary = 'amb@world_human_stand_fishing@idle_a',
@@ -1875,7 +1867,7 @@ return {
         },
     },
     {
-        Label = 'Flauta',
+        Label = 'Flute',
         Command = 'flute',
         Animation = 'ped_a_enter_loop',
         Dictionary = 'anim@heists@humane_labs@finale@keycards',
